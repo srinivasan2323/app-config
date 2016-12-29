@@ -1,10 +1,8 @@
 security:
     basic:
-        enabled: false
+        enabled: true
         
 management:
   security:
-    enabled: false
-server
-    name
-        uri: structure
+    enabled: true
+
