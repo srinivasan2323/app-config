@@ -5,3 +5,6 @@ security:
 management:
   security:
     enabled: false
+server
+    name
+        uri: structure
