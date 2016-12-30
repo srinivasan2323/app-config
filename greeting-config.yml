@@ -1,8 +1,8 @@
 security:
     basic:
-        enabled: true
+        enabled: false
         
 management:
   security:
-    enabled: true
+    enabled: false
 
