@@ -5,4 +5,9 @@ security:
 management:
   security:
     enabled: true
+   
+logging:
+    level:
+        io:
+            pivotal: DEBUG
 
